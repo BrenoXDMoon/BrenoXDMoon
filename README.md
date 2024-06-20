@@ -1,7 +1,8 @@
-### Olá! Esse perfil é do Breno Gabriel 👋
+### Olá! Bem vindo ao perfil de Breno Gabriel 👋
 
-- 🔭 Estou trabalhando com Back-end
-- 🌱 Estou estudando Spring Framework, Docker e Jenkins
+- 🔭 Estou trabalhando como Desenvolvedor Fullstack
+- 🧠 Minhas principais skills são Java, Spring Boot, Clean Code, Typescript e Kotlin
+- 🌱 Estou estudando Node.js, Design Patterns, e Clean Arch
 - 😄 Pronouns: ele/dele
 - 🌐 Portifólio: https://brenoxdmoon.github.io
 
@@ -15,11 +16,10 @@
   <div style="display: inline_block"><br>
     <img align="center" alt="Breno-Spring" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
     <img align="center" alt="Breno-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-    <img align="center" alt="Breno-Bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
-    <img align="center" alt="Breno-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+    <img align="center" alt="Breno-TS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
+    <img align="center" alt="Breno-TS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-line-wordmark.svg" />
     <img align="center" alt="Breno-Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
-    <img align="center" alt="Breno-Jenkins" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" />
-    <img align="center" alt="Breno-K8s" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" />
+    <img align="center" alt="Breno-TS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/hibernate/hibernate-original-wordmark.svg" />
   </div>
   
   ##
