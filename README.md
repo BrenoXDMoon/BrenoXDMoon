@@ -1,6 +1,6 @@
 ### Olá! Bem vindo ao perfil de Breno Gabriel 👋
 
-- 🔭 Estou trabalhando como Desenvolvedor Fullstack
+- 🔭 Estou trabalhando como Engenheiro de Software
 - 🧠 Minhas principais skills são Java, Spring Boot, Clean Code, Typescript e Kotlin
 - 🌱 Estou estudando Node.js, Design Patterns, e Clean Arch
 - 😄 Pronouns: ele/dele
